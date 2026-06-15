@@ -11,4 +11,4 @@ A simple Discord bot that uses the Steam API to check if a cheater has been bann
 
 <img width="937" height="502" alt="ban" src="https://github.com/user-attachments/assets/ce0d0672-1b52-4f56-a643-09cc1f2deefc" />
 
-Anyone can use this bot's code, just please do not remove the author's information. Have any question? add me on discord: k01s, or steam https://steamcommunity.com/id/nwre
+Anyone can use this bot's code, just please do not remove the author's information. Have any question? add me on discord: k01s, or steam: https://steamcommunity.com/id/nwre
