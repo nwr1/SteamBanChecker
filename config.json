@@ -3,5 +3,5 @@
   "steamApiKey": "STEAM WEB API",
   "channelId": "Channel ID for text",
   "clientId": "Bot client id",
-  "guildId": "server id"
+  "guildId": "server_id"
 }
